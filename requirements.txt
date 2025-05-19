@@ -1,0 +1,12 @@
+beautifulsoup4
+lxml
+selenium
+httpx
+aiohttp
+python-dotenv
+schedule
+rich
+python-telegram-bot>=20.0
+requests
+pyTelegramBotAPI
+pyotp
